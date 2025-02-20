@@ -17,7 +17,7 @@ st.markdown("""
         font-weight: bold;
         background: linear-gradient(90deg, #4A90E2, #6A11CB);
         -webkit-background-clip: text;
-        -webkit-text-fill-color: white;
+        -webkit-text-fill-color: transparent;
         text-align: center;
         margin-bottom: 15px;
     }
