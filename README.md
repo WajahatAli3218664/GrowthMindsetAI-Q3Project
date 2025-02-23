@@ -68,7 +68,7 @@ elevate-mindset-ai/
 
 ## 📜 Requirements
 
-- Python 3.8+
+- Python 
 - Streamlit
 - Pandas
 - NumPy
