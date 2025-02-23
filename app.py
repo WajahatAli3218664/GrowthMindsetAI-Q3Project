@@ -95,7 +95,14 @@ st.markdown("""
 
 # Sidebar
 with st.sidebar:
-    st.markdown("<h2 style='text-align: center; color: white;'>🚀 Elevate Mindset AI</h2>", unsafe_allow_html=True)
+    st.markdown(
+        """
+        <h2 style='text-align: center; color: white; background-color: #2575FC; padding: 10px; border-radius: 10px;'>
+            🚀 Elevate Mindset AI
+        </h2>
+        """,
+        unsafe_allow_html=True
+    )
     st.markdown("---")
     user_name = st.text_input("Enter your name to personalize your experience:")
     if user_name:
