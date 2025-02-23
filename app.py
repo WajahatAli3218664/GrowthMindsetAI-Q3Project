@@ -308,6 +308,6 @@ elif page == "Achievement Badges":
 st.markdown("""
 <div class='footer'>
 🚀 Believe in yourself—every challenge you overcome, every step you take, and every lesson you learn shapes your incredible journey! ❤️🌟<br>
-<strong>Created by Wajahat</strong>
+<strong>Created by Wajahat Ali</strong>
 </div>
 """, unsafe_allow_html=True)
